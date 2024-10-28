@@ -278,7 +278,7 @@
 
     function mapConfig() {
         $.gmap3({
-            key: 'AIzaSyAx39JFH5nhxze1ZydH-Kl8xXM3OK4fvcg'
+            key: ''
         });
         var map = $('#contact-map');
         if (map.length > 0) {
